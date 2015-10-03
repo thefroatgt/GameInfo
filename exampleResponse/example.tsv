@@ -1,0 +1,213 @@
+Oct 02, 2015 7:54:21 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://thegamesdb.net:80: Connection reset
+Oct 02, 2015 7:54:21 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://thegamesdb.net:80
+Oct 02, 2015 7:55:33 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (java.net.SocketException) caught when processing request to {}->http://thegamesdb.net:80: Connection reset
+Oct 02, 2015 7:55:33 PM org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {}->http://thegamesdb.net:80
+name	error	count	Sony Playstation 3	Microsoft Xbox 360	Nintendo Wii	Sony Playstation 2	Sony Playstation	Nintendo DS	PC	Mac OS	Sony Playstation 4	Microsoft Xbox One	Nintendo Wii U	Microsoft Xbox	Sony PSP	Nintendo Game Boy Advance	Android	Nintendo 3DS	iOS	Microsoft Xbox	Nintendo 64	Nintendo GameCube	otherPlatforms	ReleaseDate	ESRB	Developer	Publisher	
+007 Legends		4	true	true	false	false	false	false	true	false	false	false	true	false	false	false	false	false	false	false	false	false		10/16/2012	T - Teen	Eurocom,Eurocom Entertainment Software	Activision	
+007: Quantum of Solace		6	true	true	true	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/04/2008	T - Teen	Beenox,Treyarch,Eurocom Entertainment,Vicarious Visions	Activision	
+10 Minute Solution		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/28/2010	E - Everyone	Activision	Activision	
+Lalaloopsy		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Adventure Camp		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/01/2011	E - Everyone	Cauldron Ltd.,Activision	Activision Value,Activision	
+Cabela's African Safari		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/21/2006	T - Teen			
+Cabela's Alaskan Adventure		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Big Game Hunter (2008)		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Big Game Hunter 2010		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/29/2009				
+Cabela's Big Game Hunter 2012		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/27/2011	T - Teen		Activision	
+Barbie and The Three Musketeers		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/03/2009	E - Everyone	activision	activision	
+Cabela's Big Game Hunter: Hunting Party		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/01/2011	T - Teen	Activision	Activision	
+Cabela's Big Game Hunter: Pro Hunts		1	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		03/25/2014	T - Teen	Cauldron	Activision	
+NPPL Championship Paintball 2009		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/18/2008	E10+ - Everyone 10+	Activision	Activision	
+Cabela's Dangerous Hunts 2009		1	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false				Magic Wand Productions	Activision	
+Family Guy: Back to the Multiverse		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/20/2012	M - Mature	Heavy Iron Studios,Heavy Iron Studio	Activision	
+Cabela's Dangerous Hunts 2011		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/19/2010	T - Teen		Activision	
+Cabela's Dangerous Hunts: Ultimate Challenge		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Legendary Adventures		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Activision Hits: Remixed		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Monster Buck Hunter		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's North American Adventures		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Cabela's Survival: Shadows of Katmai		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/01/2011	T - Teen	Fun Labs	Activision Value	
+Cabela's Trophy Bucks		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty 2		2	false	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		10/25/2005	T - Teen	Infinity Ward	Activision	
+Call of Duty 3		5	true	true	true	true	false	false	false	false	false	false	false	true	false	false	false	false	false	true	false	false		11/07/2006	T - Teen	Treyarch	Activision	
+Call of Duty 4: Modern Warfare		4	true	true	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/05/2007	M - Mature,T - Teen	Infinity Ward,n-Space	Activision	
+Call of Duty Black Ops: Declassified		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Black Ops		5	true	true	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/09/2010	M - Mature,T - Teen	Treyarch,n-Space	Activision	
+Call of Duty: Black Ops II		4	true	true	false	false	false	false	true	false	false	false	true	false	false	false	false	false	false	false	false	false		11/13/2012	M - Mature,RP - Rating Pending	Treyarch	Activision	
+Little League World Series Baseball 2008		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Ghosts		6	true	true	false	false	false	false	true	false	true	true	true	false	false	false	false	false	false	false	false	false		11/05/2013	M - Mature	Infinity Ward	Activision	
+Bakugan Battle Brawlers: Defenders of the Core		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Little League World Series Baseball 2009		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Little League World Series Baseball 2010		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Nascar Unleashed		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Little League World Series Baseball: Double Play		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Bakugan: Battle Brawlers		3	true	true	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/20/2009	E - Everyone	NOW Production,Now Production	Activision	
+Call of Duty: Modern Warfare 2		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/10/2009	M - Mature	Infinity Ward	Activision	
+Call of Duty: Modern Warfare 3		4	true	true	true	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/08/2011	M - Mature	Infinityward,Infinity Ward & Sledgehammer Games	Activision	
+Bakugan: Battle Trainer		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Bakugan: Rise of the Resistance		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Modern Warfare 3: Defiance		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Modern Warfare: Mobilized		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Modern Warfare: Reflex Edition		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Call of Duty: Roads to Victory		1	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false		03/13/2007	T - Teen	Amaze Entertainment	Activision	
+Call of Duty: The War Collection		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Band Hero		3	true	true	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/03/2009	E10+ - Everyone 10+	Neversoft,BudCat	Activision,RedOctane	
+Call of Duty: World at War		4	true	true	true	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/11/2008	M - Mature	Treyarch	Activision,Activision Blizzard	
+Barbie Fashion Show: An Eye for Style		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Barbie Horse Adventures: Riding Camp		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Barbie as The Island Princess		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/30/2007	E - Everyone	Ivolgamus	Activision	
+Barbie in The 12 Dancing Princesses		1	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false		10/30/2006	E - Everyone	WayForward	Activision	
+Angry Birds Star Wars		7	false	true	true	false	false	false	false	false	true	true	false	false	false	false	true	true	true	false	false	false		10/29/2013	E - Everyone	Rovio,Rovio Entertainment Ltd.,Rovio Mobile Ltd.	LucasArts,Activision	
+Dancing with the Stars: We Dance!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Angry Birds Trilogy		5	true	true	true	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	false	false		09/25/2012	E - Everyone	Rovio	Activision, Chillingo,Activision	
+Animal Planet: Emergency Vets		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Animal Planet: Vet Collection		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Animal Planet: Vet Life		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/22/2009	E - Everyone	Activision	Activision	
+Apache: Air Assault		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/16/2010	T - Teen	Gaijin Entertainment,Gaijin Entertainment Corporation	Activision,1C Company	
+Arcade Zone		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Bee Movie Game		3	false	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/30/2007	E - Everyone	Beenox	Activision	
+Dreamworks Madagascar Kartz		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+DreamWorks Super Star Kartz		5	true	true	true	false	false	true	false	false	false	false	false	false	false	false	false	true	false	false	false	false		11/15/2011	E - Everyone	Activision	Activision	
+Mountain Sports		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+MTX Mototrax		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Big League Sports		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/08/2011				
+Big League Sports: Summer		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Over the Hedge		3	false	false	false	true	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	true		05/05/2006	E10+ - Everyone 10+	Edge of Reality,Vicarious Visions	Activision	
+Over the Hedge: Hammy Goes Nuts!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+NASCAR 2011: The Game		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+NASCAR The Game: Inside Line		2	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/06/2012	E - Everyone	Eutechnyx	Activision	
+Monkey Mischief! Party Time		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Block Party		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Blood Drive		2	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/02/2010	M - Mature	Sidhe Interactive	Activision Value Publishing Inc.	
+Guitar Hero: On Tour		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/22/2008				
+Blur		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		05/25/2010	E10+ - Everyone 10+	Bizarre Creations	Activision,Activision Blizzard	
+Percy Jackson and the Olympians: The Lightning Thief		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+History Channel: Battle for the Pacific		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Monster Jam		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/19/2007	E - Everyone	Torus Games	Activision	
+Monster Jam: Path of Destruction		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/09/2010	E - Everyone	Virtuos	Activision	
+Monster Jam: Urban Assault		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Monsters vs. Aliens		6	true	true	true	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		03/23/2009	E10+ - Everyone 10+,E - Everyone	Beenox,Beenox Inc.	Activision	
+Moshi Monsters: Katsuma Unleashed		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Moshi Monsters: Moshling Zoo		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Moshi Monsters: Moshlings Theme Park		1	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false		10/30/2012	E - Everyone	Black Lantern Studios	Activision	
+Enemy Territory: Quake Wars		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		09/27/2007	T - Teen	Splash Damage,Z-Axis	Activision	
+X-Men Legends II: Rise of Apocalypse		4	false	false	false	true	false	false	true	false	false	false	false	true	false	false	false	false	false	true	false	true		09/20/2005	T - Teen	Raven,Raven Software	Activision	
+X-Men Origins: Wolverine		6	true	true	true	true	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false		05/01/2009	M - Mature,T - Teen	Raven,Amaze Entertainment,Griptonite Games	Activision	
+X-Men Origins: Wolverine - Uncaged Edition		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+TransFormers Animated: The Game		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/21/2008	E - Everyone	Artificial Mind and Movement	Activision	
+X-Men: Destiny		4	true	true	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/27/2011	T - Teen,E10+ - Everyone 10+	Silicon Knights,Other Ocean Interactive	Activision	
+Transformers Prime		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+X-Men: The Official Game		4	false	true	false	true	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	true		05/16/2006	E10+ - Everyone 10+,T - Teen	WayForward,Z-Axis, Ltd,Hypnos Entertainment	Activision	
+Transformers: Cybertron Adventures		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/22/2010	T - Teen	Next Level	Activision	
+Transformers: Dark of the Moon		2	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/14/2011	T - Teen	High Moon Studios	Activision	
+Transformers: Dark of the Moon - Autobots/Decepticons		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Transformers: Fall of Cybertron		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		08/21/2012	T - Teen	High Moon Studios	Activision	
+Transformers: Revenge of the Fallen		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/23/2009	T - Teen	Krome Studios,Luxoflux	Activision	
+Transformers: The Game		6	true	true	true	true	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false		06/26/2007	T - Teen	Traveller's Tales	Activision	
+Dancing With The Stars		1	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/23/2007	E10+ - Everyone 10+	Zoë Mode	Activision	
+Transformers: War for Cybertron		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		06/22/2010	T - Teen	High Moon Studios	Activision	
+Dreamworks 2-in-1 Party Pack		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+The History Channel: Battle for the Pacific		2	false	true	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/19/2007	T - Teen	Sand Grain Studios	Activision Value	
+The History Channel: Civil War - Secret Missions		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+The Hustle: Detroit Streets		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Pimp My Ride		1	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		12/06/2006	T - Teen			
+Pimp My Ride: Street Racing		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+ZhuZhu Babies		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+ZhuZhu Pets		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+ZhuZhu Pets: Quest for Zhu		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+ZhuZhu Puppies		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Zoobles! Spring to Life!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Pirates: Hunt For Blackbeard's Booty		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+[Prototype]		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Pitfall: The Big Adventure		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/23/2008	E - Everyone		Activision	
+Deadpool		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		06/25/2013	M - Mature	High Moon,Activision	Activision,High Moon Studios	
+iCarly		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Ultimate Spider-Man		6	false	false	false	true	false	true	true	false	false	false	false	true	false	true	false	false	false	true	false	true		09/19/2005	T - Teen,E10+ - Everyone 10+	Treyarch,Activision,Vicarious Visions	Activision	
+iCarly 2: iJoin The Click!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Quake 4		2	false	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		10/18/2005	M - Mature	id Software,Raven Software, id Software	Activision,Activision, Bethesda Softworks	
+The Quest Trio		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		08/26/2008				
+Rapala Fishing Frenzy 2009		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Rapala Pro Bass Fishing 2010		1	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false		09/24/2010				
+Rapala Tournament Fishing!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Rapala Trophies		1	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false						
+Rapala's Fishing Frenzy		1	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/02/2008	E - Everyone	FUN Labs	Activision	
+Rapala: We Fish		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Secret Service		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Diablo III		6	true	true	false	false	false	false	true	true	true	true	false	false	false	false	false	false	false	false	false	false		05/15/2012	M - Mature	Blizzard Entertainment,Blizzard	Activision Blizzard,Activision	
+Generator Rex: Agent of Providence		5	true	true	true	false	false	true	false	false	false	false	false	false	false	false	false	true	false	false	false	false		11/01/2011	E10+ - Everyone 10+	Activision,Virtuos	Activision	
+Madagascar		4	false	false	false	true	false	false	false	false	false	false	false	true	false	true	false	false	false	true	false	true		05/23/2005	E10+ - Everyone 10+,E - Everyone	Toys for Bob,Vicarious Visions	Activision	
+Madagascar: Escape 2 Africa		6	true	true	true	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/04/2008	E10+ - Everyone 10+,E - Everyone		Activision	
+Shrek Smash n' Crash Racing		2	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true		11/21/2006	E - Everyone	Activision,Torus Games	Activision,Activision Value Publishing	
+Shrek SuperSlam		1	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true		10/25/2005	E10+ - Everyone 10+	Shaba Games	Activision	
+Shrek the Third		5	false	true	true	true	false	false	false	false	false	false	false	false	true	true	false	false	false	false	false	false		05/14/2007	E10+ - Everyone 10+,E - Everyone	Amaze Entertainment,7 Studios,Vicarious Visions	Activision	
+Shrek's Carnival Craze Party Games		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+GoldenEye 007		3	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	true	false		08/23/1997	T - Teen	Rareware,Activision,n-Space	Nintendo,Activision	
+Shrek: Forever After		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Wappy Dog		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Goldeneye 007: Reloaded		2	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/01/2011	T - Teen		Activision	
+Prototype 2		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		04/24/2012	M - Mature	Radical Entertainment	Activision	
+Magical ZhuZhu Princess: Carriages & Castles		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Mah Jong Quest: Expeditions		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Puppy Luv: Spa and Resort		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Singularity		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		06/25/2010	M - Mature	Raven Software,Raven	Activision	
+Whac-A-Mole		1	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false		09/20/2005		DC Studios	Activision	
+Greg Hastings' Tournament Paintball Max'd		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Skylanders Giants		6	true	true	true	false	false	false	true	false	false	false	true	false	false	false	false	true	false	false	false	false		10/01/2012	E10+ - Everyone 10+,E - Everyone	Toys for Bob, XPEC,Toys For Bob,Toys for Bob,n-Space,Vicarious Visions	Activision	
+Skylanders SWAP Force		6	true	true	true	false	false	false	false	false	true	true	true	false	false	false	false	false	false	false	false	false		10/13/2013	E10+ - Everyone 10+,E - Everyone	Vicarious Visions,Activision,Beenox,n-Space,Vicarious Visons	Activision	
+Skylanders Swap Force		6	true	true	true	false	false	false	false	false	true	true	true	false	false	false	false	false	false	false	false	false		10/13/2013	E10+ - Everyone 10+,E - Everyone	Vicarious Visions,Activision,Beenox,n-Space,Vicarious Visons	Activision	
+Skylanders: Spyro's Adventure		6	true	true	true	false	false	false	true	true	false	false	false	false	false	false	false	true	false	false	false	false		10/16/2011	E10+ - Everyone 10+,E - Everyone	Toys for Bob, Vicarious Visions, XPEC Entertainment, Inc.,Toys for Bob	Activision	
+Guitar Hero 5		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/01/2009	T - Teen	Vicarious Visions,Activision	Activision	
+Chaotic: Shadow Warriors		4	true	true	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/10/2009	E10+ - Everyone 10+			
+Guitar Hero: World Tour		6	true	true	true	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false		10/26/2008	T - Teen,E10+ - Everyone 10+	Aspyr Media,Neversoft Entertainment,Neversoft	Activision	
+Guitar Hero On Tour: Modern Hits		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/09/2009	E10+ - Everyone 10+	Vicarious Visions	Activision	
+Guitar Hero: Aerosmith		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/29/2008	T - Teen	Neversoft	Activision	
+Gun		5	false	true	false	true	false	false	true	false	false	false	false	true	false	false	false	false	false	true	false	true		11/08/2005	M - Mature,E - Everyone	Neversoft Ent.,Neversoft,Neversoft Entertainment	Activision	
+Guitar Hero: Metallica		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		03/29/2009	T - Teen	Budcat Creations,Neversoft Entertainment,Activision	Activision	
+Gun Showdown		1	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false		10/10/2006	M - Mature	Neversoft Entertainment	Activision	
+Guitar Hero: On Tour Decades		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Guitar Hero: Smash Hits		3	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/16/2009	T - Teen			
+Guitar Hero: Van Halen		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		12/22/2009	T - Teen	Underground Development	Activision	
+Guitar Hero: Warriors of Rock		2	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		09/28/2010	T - Teen	Neversoft Entertainment	Activision	
+WipeOut 3 The Game		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Wipeout 2		2	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/11/2011				
+Soldier of Fortune: Payback		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		11/13/2007	M - Mature	Cauldron HQ	Activision	
+Wipeout: In The Zone		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Wipeout: The Game		2	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/22/2010	E - Everyone,E10+ - Everyone 10+	A.C.R.O.N.Y.M. Games	Activision	
+Wolfenstein		3	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		08/18/2009	M - Mature	Raven,id Software	Activision	
+Spider-Man 3		8	true	true	true	true	false	true	true	false	false	false	false	false	true	true	false	false	false	false	false	false		05/04/2007	T - Teen,E10+ - Everyone 10+,M - Mature	Treyarch,Vicarious Visions,Beenox	Activision,EA	
+The Walking Dead: Survival Instinct		4	true	true	false	false	false	false	true	false	false	false	true	false	false	false	false	false	false	false	false	false		03/19/2013	M - Mature	Terminal Reality,Terminal Reality, Inc.	Activision	
+Marvel: Ultimate Alliance		8	true	true	true	true	false	false	true	false	false	false	false	true	true	true	false	false	false	true	false	false		10/24/2006	T - Teen,E10+ - Everyone 10+	Raven,Raven Software,Barking Lizards	Activision	
+World Series of Poker		1	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true		09/14/2005	E10+ - Everyone 10+	Activision	Activision	
+World Series of Poker 2008: Battle for the Bracelets		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Marvel: Ultimate Alliance 2		6	true	true	true	true	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false	false		09/15/2009	T - Teen,E10+ - Everyone 10+	nSpace,Viscarious Visions,n-Space,Savage Entertainment	Activision	
+World of Warcraft: Cataclysm		1	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false		12/07/2010	T - Teen	Blizzard Entertainment	Blizzard Entertainment	
+World of Warcraft: Mists of Pandaria		2	false	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false		09/25/2012	T - Teen	Blizzard Entertainment	Blizzard Entertainment	
+Jurassic: The Hunted		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		11/03/2009	T - Teen	Cauldron	Activision	
+Space Camp		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Spanish for Everyone!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+How to Train Your Dragon		4	true	true	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		03/23/2010	E10+ - Everyone 10+	Activision	Activision	
+Spider-Man 2		6	false	false	false	true	false	true	false	false	false	false	false	true	true	true	false	false	false	true	false	true		06/28/2004	T - Teen,E - Everyone	Treyarch,Digital Eclipse,Vicarious Visions	Activision	
+Crash: Mind Over Mutant		5	false	true	true	true	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false	false		10/07/2008	E10+ - Everyone 10+,E - Everyone	Radical Entertainment,Virtuos	Activision Blizzard,Sierra,Sierra Entertainment	
+Ice Age: Dawn of the Dinosaurs		7	true	true	true	true	false	true	true	false	false	false	false	false	false	false	false	false	true	false	false	false		06/30/2009	E10+ - Everyone 10+,E - Everyone		Activision	
+Spider-Man: Battle for New York		1	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false		11/14/2006	E10+ - Everyone 10+	Torus Games	Activision	
+Spider-Man: Edge of Time		4	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false		10/04/2011	T - Teen	Beenox	Activision	
+Spider-Man: Friend or Foe		3	false	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/02/2007	E10+ - Everyone 10+	Next Level,Next Level Games	Activision	
+Spider-Man: Shattered Dimensions		5	true	true	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		09/07/2010	T - Teen,E10+ - Everyone 10+	Beenox,Griptonite Games	Activision	
+Spider-Man: Web of Shadows		6	true	true	true	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false		10/21/2008	T - Teen,E10+ - Everyone 10+	Treyarch,Amaze Entertainment,Shaba Games	Activision	
+Spider-Man: Web of Shadows - Amazing Allies Edition		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Hidden Mysteries: Titanic - Secrets of the Fateful Voyage		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+SpongeBob SquarePants: Plankton's Robotic Revenge		1	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false						
+Cut the Rope: Triple Treat		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+History Channel: Civil War - A Nation Divided		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+History Civil War: Secret Missions		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+DJ Hero		4	true	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/27/2009	T - Teen	FreeStyleGames, Exient Entertainment,FreeStyleGames	Activision	
+DJ Hero 2		3	true	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false		10/19/2010	T - Teen	Freestyle Games	Activision	
+Transformers: Revenge of the Fallen - Autobots		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Transformers: War for Cybertron - Autobots		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Transformers: War for Cybertron - Decepticons		1	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false		06/27/2010	E - Everyone	Vicarious Visions	Activision	
+Squinkies		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+Squinkies 2: Adventure Mall Surprize!		0	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false						
+
